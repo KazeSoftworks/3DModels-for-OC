@@ -1,5 +1,6 @@
 {
-  label = "champ",
+  label = "Trophy",
+  tooltip = "One trophy is not enough for a champ!",
   shapes = {
     { 5,0,6,11,1,10,texture = "iron_block", tint = 0x202020 },
     { 6,0,5,10,1,11,texture = "iron_block", tint = 0x202020 },
