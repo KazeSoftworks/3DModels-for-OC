@@ -1,0 +1,22 @@
+{
+  label = "Uranium Kaze Capsule",
+  tooltip = "Spellkaze consider you enough trustworthy!",
+  lightLevel = 7,
+  shapes = {
+    { 4,0,7,5,1,9,texture = "iron_block", tint = 0x000000 },
+    { 5,0,5,11,1,11,texture = "iron_block", tint = 0x000000 },
+    { 7,0,4,9,1,5,texture = "iron_block", tint = 0x000000 },
+    { 7,0,11,9,1,12,texture = "iron_block", tint = 0x000000 },
+    { 11,0,7,12,1,9,texture = "iron_block", tint = 0x000000 },
+    { 5,1,5,6,15,6,texture = "iron_block", tint = 0x6f6f6f },
+    { 5,1,10,6,15,11,texture = "iron_block", tint = 0x6f6f6f },
+    { 6,1,6,10,2,10,texture = "iron_block", tint = 0x6f6f6f },
+    { 10,1,5,11,15,6,texture = "iron_block", tint = 0x6f6f6f },
+    { 10,1,10,11,15,11,texture = "iron_block", tint = 0x6f6f6f },
+    { 6,2,6,10,14,10,texture = "lava_still", tint = 0x70ff40 },
+    { 6,14,6,10,15,10,texture = "iron_block", tint = 0x6f6f6f },
+    { 4,15,7,12,16,9,texture = "iron_block", tint = 0x000000 },
+    { 5,15,5,11,16,11,texture = "iron_block", tint = 0x000000 },
+    { 7,15,4,9,16,12,texture = "iron_block", tint = 0x000000 },
+  }
+}
