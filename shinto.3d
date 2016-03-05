@@ -1,0 +1,23 @@
+{
+  label = "Shinto",
+  tooltip = "Specially known from the followers of The Divine Nether Star",
+  shapes = {
+    { 1,0,7,3,1,11,texture = "planks_oak", tint = 0x100000 },
+    { 13,0,7,15,1,11,texture = "planks_oak", tint = 0x100000 },
+    { 1,1,7,3,5,11,texture = "planks_oak", tint = 0xec0000 },
+    { 13,1,7,14,14,11,texture = "planks_oak", tint = 0xec0000 },
+    { 14,1,7,15,5,11,texture = "planks_oak", tint = 0xec0000 },
+    { 2,5,7,4,14,11,texture = "planks_oak", tint = 0xec0000 },
+    { 12,5,7,14,14,11,texture = "planks_oak", tint = 0xec0000 },
+    { 1,9,7,15,10,11,texture = "planks_oak", tint = 0xec0000 },
+    { 0,10,7,1,11,11,texture = "planks_oak", tint = 0xec0000 },
+    { 7,10,7,9,12,11,texture = "planks_oak", tint = 0xec0000 },
+    { 15,10,7,16,11,11,texture = "planks_oak", tint = 0xec0000 },
+    { 1,13,7,15,14,11,texture = "planks_oak", tint = 0xec0000 },
+    { 0,14,7,1,15,11,texture = "planks_oak", tint = 0xec0000 },
+    { 1,14,7,15,15,11,texture = "planks_oak", tint = 0x101010 },
+    { 15,14,7,16,15,11,texture = "planks_oak", tint = 0xec0000 },
+    { 0,15,7,1,16,11,texture = "planks_oak", tint = 0x100000 },
+    { 15,15,7,16,16,11,texture = "planks_oak", tint = 0x100000 },
+  }
+}
