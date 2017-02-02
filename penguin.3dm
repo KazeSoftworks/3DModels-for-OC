@@ -1,0 +1,28 @@
+{
+  label = "Penguin",
+  tooltip = "A cute penguin plushie, it says "For MJR" in the back.",
+  shapes = {
+    { 5,0,6,7,1,9,texture = "wool_colored_white", tint = 0xdfdb23 },
+    { 9,0,6,11,1,9,texture = "wool_colored_white", tint = 0xdfdb23 },
+    { 5,1,6,11,3,9,texture = "wool_colored_white", tint = 0x19214b },
+    { 4,2,5,12,3,10,texture = "wool_colored_white", tint = 0x19214b },
+    { 3,3,6,4,6,8,texture = "wool_colored_white", tint = 0x081a94 },
+    { 4,3,5,6,6,10,texture = "wool_colored_white", tint = 0x19214b },
+    { 6,3,5,10,6,9,texture = "wool_colored_white" },
+    { 6,3,9,10,13,10,texture = "wool_colored_white", tint = 0x19214b },
+    { 10,3,5,11,12,10,texture = "wool_colored_white", tint = 0x19214b },
+    { 11,3,5,12,6,10,texture = "wool_colored_white", tint = 0x19214b },
+    { 12,3,6,13,6,8,texture = "wool_colored_white", tint = 0x081a94 },
+    { 3,4,8,4,6,9,texture = "wool_colored_white", tint = 0x081a94 },
+    { 12,4,8,13,6,9,texture = "wool_colored_white", tint = 0x081a94 },
+    { 5,6,5,6,12,10,texture = "wool_colored_white", tint = 0x19214b },
+    { 6,6,5,10,7,6,texture = "wool_colored_white" },
+    { 6,6,6,11,12,10,texture = "wool_colored_white", tint = 0x19214b },
+    { 6,7,5,11,10,10,texture = "wool_colored_white", tint = 0x19214b },
+    { 7,9,3,9,10,5,texture = "wool_colored_white", tint = 0xdfdb23 },
+    { 6,10,5,7,11,6,texture = "wool_colored_white" },
+    { 7,10,5,9,13,10,texture = "wool_colored_white", tint = 0x19214b },
+    { 9,10,5,10,11,6,texture = "wool_colored_white" },
+    { 6,11,5,10,13,10,texture = "wool_colored_white", tint = 0x19214b },
+  }
+}
