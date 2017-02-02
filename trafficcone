@@ -1,0 +1,17 @@
+{
+  label = "Traffic cone",
+  tooltip = "A ckassuc traffic cone, a bit bulky though",
+  shapes = {
+    { 4,0,5,12,2,11,texture = "wool_colored_white", tint = 0xc06918 },
+    { 5,0,4,11,2,12,texture = "wool_colored_white", tint = 0xc06918 },
+    { 5,2,6,11,3,10,texture = "wool_colored_white" },
+    { 6,2,5,10,3,11,texture = "wool_colored_white" },
+    { 5,3,6,11,4,10,texture = "wool_colored_white", tint = 0xc06918 },
+    { 6,3,5,10,4,11,texture = "wool_colored_white", tint = 0xc06918 },
+    { 6,4,7,10,5,9,texture = "wool_colored_white", tint = 0xc06918 },
+    { 7,4,6,9,5,10,texture = "wool_colored_white", tint = 0xc06918 },
+    { 6,5,7,10,6,9,texture = "wool_colored_white" },
+    { 7,5,6,9,6,10,texture = "wool_colored_white" },
+    { 7,6,7,9,8,9,texture = "wool_colored_white", tint = 0xc06918 },
+  }
+}
