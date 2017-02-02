@@ -1,6 +1,6 @@
 {
   label = "Penguin",
-  tooltip = "A cute penguin plushie, it says "For MJR" in the back.",
+  tooltip = "A cute penguin plushie, it says -For MJR- in the back.",
   shapes = {
     { 5,0,6,7,1,9,texture = "wool_colored_white", tint = 0xdfdb23 },
     { 9,0,6,11,1,9,texture = "wool_colored_white", tint = 0xdfdb23 },
